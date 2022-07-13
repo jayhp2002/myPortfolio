@@ -321,11 +321,11 @@ width: 100%;
     padding-right: 1rem;
     color:var(--yellow);
 }
-
 .contact .row .content .info .blue:hover{
     color:#f9ca24;
     
 }
+
 .top{
     position: fixed;
     bottom:3.5rem; right: 2rem;
